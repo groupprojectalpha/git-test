@@ -3,5 +3,11 @@ function iMessedUp(){
 }
 
 function secondChange(){
+<<<<<<< HEAD
+    alert('break it')
+
+}
+=======
     alert('it works!')
 }
+>>>>>>> master

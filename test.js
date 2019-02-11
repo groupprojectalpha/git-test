@@ -3,5 +3,6 @@ function iMessedUp(){
 }
 
 function secondChange(){
-    alert('it works!')
+    alert('break it')
+
 }
